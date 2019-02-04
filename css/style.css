@@ -8,7 +8,13 @@
 
 /*////////// Global Styles //////////*/
 
-
+h1 {
+	font-family: 'Baskerville', Times;
+	font-size: 5em;
+	border-bottom: 1px solid #ccc;
+	margin: 0 0 1px;
+	padding-bottom: 10px;
+}
 
 body {
 	background: #F3EBE9;
